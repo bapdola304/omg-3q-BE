@@ -1,0 +1,412 @@
+{
+    "baoVatList": [
+        {
+            "imageUrl": "/image/baovat/dongtuocdai.png",
+            "Name": "Đồng Tước Đài",
+            "camp": "we",
+            "aptitude": 18
+        },
+        {
+            "imageUrl": "/image/baovat/longchau.png",
+            "Name": "Long Châu",
+            "camp": "other",
+            "aptitude": 15
+        },
+        {
+            "imageUrl": "/image/baovat/hoanhanphat.png",
+            "Name": "Hỏa Phụnng Vũ",
+            "camp": "wu",
+            "aptitude": 15
+        },
+        {
+            "imageUrl": "/image/baovat/nhathoacam.png",
+            "Name": "Thiên Hỏa Cầm",
+            "camp": "wu",
+            "aptitude": 18
+        },
+        {
+            "imageUrl": "/image/baovat/votukinh.png",
+            "Name": "Vô Tự Thư",
+            "camp": "we",
+            "aptitude": 15
+        },
+        {
+            "imageUrl": "/image/baovat/tuhoachau.png",
+            "Name": "Li Hỏa Châu",
+            "camp": "shu",
+            "aptitude": 18
+        },
+        {
+            "imageUrl": "/image/baovat/cannhato.png",
+            "Name": "Hoành Thiên Tản",
+            "camp": "other",
+            "aptitude": 18
+        },
+        {
+            "imageUrl": "/image/baovat/langthuboi.png",
+            "Name": "U Lang Ngọc",
+            "camp": "we",
+            "aptitude": 18
+        },
+        {
+            "imageUrl": "/image/baovat/kimnguuti.png",
+            "Name": "Quỷ Ngưu Hoàn",
+            "camp": "we",
+            "aptitude": 15
+        },
+        {
+            "imageUrl": "/image/baovat/hanlongti.png",
+            "Name": "Long Đàn Uyển",
+            "camp": "shu",
+            "aptitude": 18
+        },
+        {
+            "imageUrl": "/image/baovat/tatphongchu.png",
+            "Name": "Phong Đô Phù",
+            "camp": "other",
+            "aptitude": 18
+        },
+        {
+            "imageUrl": "/image/baovat/thattinhdang.png",
+            "Name": "Thất Tinh Đăng",
+            "camp": "shu",
+            "aptitude": 18
+        },
+        {
+            "imageUrl": "/image/baovat/langnhantrao.png",
+            "Name": "Lang Nhãn Tráo",
+            "camp": "we",
+            "aptitude": 18
+        },
+        {
+            "imageUrl": "/image/baovat/songnhatchau.png",
+            "Name": "Xi Vưu Châu",
+            "camp": "other",
+            "aptitude": 18
+        },
+        {
+            "imageUrl": "/image/baovat/bavuongmien.png",
+            "Name": "Bá Vương Quán",
+            "camp": "wu",
+            "aptitude": 18
+        },
+        {
+            "imageUrl": "/image/baovat/bangvuongvu.png",
+            "Name": "Bằng Vương Vũ",
+            "camp": "we",
+            "aptitude": 15
+        },
+        {
+            "imageUrl": "/image/baovat/kiemhonha.png",
+            "Name": "Kiếm Hổ Nha",
+            "camp": "we",
+            "aptitude": 18
+        },
+        {
+            "imageUrl": "/image/baovat/cungcampho.png",
+            "Name": "Cung Cầm Phổ",
+            "camp": "we",
+            "aptitude": 15
+        },
+        {
+            "imageUrl": "/image/baovat/quydienlenh.png",
+            "Name": "Quỷ Diện Lệnh",
+            "camp": "we",
+            "aptitude": 15
+        },
+        {
+            "imageUrl": "/image/baovat/chutuocnang.png",
+            "Name": "Chu Tước Nang",
+            "camp": "we",
+            "aptitude": 15
+        },
+        {
+            "imageUrl": "/image/baovat/hanngocthach.png",
+            "Name": "Hàn Ngọc Thạch",
+            "camp": "we",
+            "aptitude": 15
+        },
+        {
+            "imageUrl": "/image/baovat/ngocphungboi.png",
+            "Name": "Ngọc Phụng Bội",
+            "camp": "we",
+            "aptitude": 18
+        },
+        {
+            "imageUrl": "/image/baovat/codamtrao.png",
+            "Name": "Cô Đảm Tráo",
+            "camp": "we",
+            "aptitude": 18
+        },
+        {
+            "imageUrl": "/image/baovat/tulathuan.png",
+            "Name": "Tu La Thuẫn",
+            "camp": "we",
+            "aptitude": 15
+        },
+        {
+            "imageUrl": "/image/baovat/thiendialenh.png",
+            "Name": "Thiên Địa Lệnh",
+            "camp": "shu",
+            "aptitude": 18
+        },
+        {
+            "imageUrl": "/image/baovat/ngoclongan.png",
+            "Name": "Ngọc Long Ấn",
+            "camp": "shu",
+            "aptitude": 18
+        },
+        {
+            "imageUrl": "/image/baovat/kylanti.png",
+            "Name": "Kỳ Lân Tỉ",
+            "camp": "shu",
+            "aptitude": 18
+        },
+        {
+            "imageUrl": "/image/baovat/sutuudan.png",
+            "Name": "Sư Tửu Đàn",
+            "camp": "shu",
+            "aptitude": 18
+        },
+        {
+            "imageUrl": "/image/baovat/xuyenvantien.png",
+            "Name": "Xuyên Vân Tiễn",
+            "camp": "shu",
+            "aptitude": 15
+        },
+        {
+            "imageUrl": "/image/baovat/huyethatvi.png",
+            "Name": "Huyết Hạt Vĩ",
+            "camp": "shu",
+            "aptitude": 15
+        },
+        {
+            "imageUrl": "/image/baovat/kimchidiep.png",
+            "Name": "Kim Chi Điệp",
+            "camp": "shu",
+            "aptitude": 15
+        },
+        {
+            "imageUrl": "/image/baovat/thuphiphong.png",
+            "Name": "Thú Phi Phong",
+            "camp": "shu",
+            "aptitude": 15
+        },
+        {
+            "imageUrl": "/image/baovat/holinhdang.png",
+            "Name": "Hổ Linh Đang",
+            "camp": "shu",
+            "aptitude": 15
+        },
+        {
+            "imageUrl": "/image/baovat/binhphapgian.png",
+            "Name": "Binh Pháp Giản",
+            "camp": "shu",
+            "aptitude": 15
+        },
+        {
+            "imageUrl": "/image/baovat/quyhoadang.png",
+            "Name": "Quỷ Hỏa Đăng",
+            "camp": "shu",
+            "aptitude": 15
+        },
+        {
+            "imageUrl": "/image/baovat/lilonguyen.png",
+            "Name": "Li Long Uyển",
+            "camp": "wu",
+            "aptitude": 18
+        },
+        {
+            "imageUrl": "/image/baovat/linhkiemboi.png",
+            "Name": "Linh Kiếm Bội",
+            "camp": "wu",
+            "aptitude": 18
+        },
+        {
+            "imageUrl": "/image/baovat/bachhoatan.png",
+            "Name": "Bách Hoa Tản",
+            "camp": "wu",
+            "aptitude": 15
+        },
+        {
+            "imageUrl": "/image/baovat/thanhhovi.png",
+            "Name": "Thanh Hồ Vĩ",
+            "camp": "wu",
+            "aptitude": 15
+        },
+        {
+            "imageUrl": "/image/baovat/tukimhoan.png",
+            "Name": "Tử Kim Hoàn",
+            "camp": "wu",
+            "aptitude": 15
+        },
+        {
+            "imageUrl": "/image/baovat/vanmenhdau.png",
+            "Name": "Vận Mệnh Đầu",
+            "camp": "wu",
+            "aptitude": 18
+        },
+        {
+            "imageUrl": "/image/baovat/kimlaudiep.png",
+            "Name": "Kim Lâu Diệp",
+            "camp": "wu",
+            "aptitude": 15
+        },
+        {
+            "imageUrl": "/image/baovat/kinhcuctien.png",
+            "Name": "Kinh Cúc Tiên",
+            "camp": "wu",
+            "aptitude": 15
+        },
+        {
+            "imageUrl": "/image/baovat/tegiacti.png",
+            "Name": "Tê Giác Tỉ",
+            "camp": "wu",
+            "aptitude": 15
+        },
+        {
+            "imageUrl": "/image/baovat/vancobinh.png",
+            "Name": "Vạn Cổ Bình",
+            "camp": "other",
+            "aptitude": 18
+        },
+        {
+            "imageUrl": "/image/baovat/bachthaolau.png",
+            "Name": "Bách Thảo Lâu",
+            "camp": "other",
+            "aptitude": 15
+        },
+        {
+            "imageUrl": "/image/baovat/tuutriboi.png",
+            "Name": "Tửu Trì Bôi",
+            "camp": "other",
+            "aptitude": 18
+        },
+        {
+            "imageUrl": "/image/baovat/tungugiac.png",
+            "Name": "Tù Ngu Giác",
+            "camp": "other",
+            "aptitude": 18
+        },
+        {
+            "imageUrl": "/image/baovat/haclangtrao.png",
+            "Name": "Hắc Lang Tráo",
+            "camp": "other",
+            "aptitude": 15
+        },
+        {
+            "imageUrl": "/image/baovat/satbutky.png",
+            "Name": "Sát Bút Ký",
+            "camp": "other",
+            "aptitude": 15
+        },
+        {
+            "imageUrl": "/image/baovat/viengiaan.png",
+            "Name": "Viên Gia Ấn",
+            "camp": "other",
+            "aptitude": 15
+        },
+        {
+            "imageUrl": "/image/baovat/honthiencan.png",
+            "Name": "Hỗn Thiên Cân",
+            "camp": "wu",
+            "aptitude": 18
+        },
+        {
+            "imageUrl": "/image/baovat/thamuyenoa.png",
+            "Name": "Thâm Uyên Oa",
+            "camp": "other",
+            "aptitude": 18
+        },
+        {
+            "imageUrl": "/image/baovat/tiemlonghap.png",
+            "Name": "Tiềm Long Hạp",
+            "camp": "wu",
+            "aptitude": 18
+        },
+        {
+            "imageUrl": "/image/baovat/tienholo.png",
+            "Name": "Tiên Hồ Lô",
+            "camp": "other",
+            "aptitude": 18
+        },
+        {
+            "imageUrl": "/image/baovat/thanhanhngoa.png",
+            "Name": "Thần Hành Ngoa",
+            "camp": "other",
+            "aptitude": 15
+        },
+        {
+            "imageUrl": "/image/baovat/thuynguyetdich.png",
+            "Name": "Thủy Nguyệt Địch",
+            "camp": "shu",
+            "aptitude": 15
+        },
+        {
+            "imageUrl": "/image/baovat/thanhngoccam.png",
+            "Name": "Thanh Ngọc Cầm",
+            "camp": "other",
+            "aptitude": 15
+        },
+        {
+            "imageUrl": "/image/baovat/hoangthiengiac.png",
+            "Name": "Hoàng Thiên Giác",
+            "camp": "other",
+            "aptitude": 15
+        },
+        {
+            "imageUrl": "/image/baovat/longgiackhien.png",
+            "Name": "Long Giác Khiên",
+            "camp": "we",
+            "aptitude": 15
+        },
+        {
+            "imageUrl": "/image/baovat/cuonghuyetuyen.png",
+            "Name": "Cuồng Huyết Uyển",
+            "camp": "wu",
+            "aptitude": 15
+        },
+        {
+            "imageUrl": "/image/baovat/nguyetlinhdang.png",
+            "Name": "Nguyệt Linh Đang",
+            "camp": "wu",
+            "aptitude": 15
+        },
+        {
+            "imageUrl": "/image/baovat/tannguyetmien.png",
+            "Name": "Tân Nguyệt Miện",
+            "camp": "we",
+            "aptitude": 15
+        },
+        {
+            "imageUrl": "/image/baovat/phunglinhquan.png",
+            "Name": "Phụng Linh Quán",
+            "camp": "other",
+            "aptitude": 18
+        },
+        {
+            "imageUrl": "/image/baovat/nhanvuongcau.png",
+            "Name": "Nhãn Vương Cầu",
+            "camp": "we",
+            "aptitude": 18
+        },
+        {
+            "imageUrl": "/image/baovat/phanthucthu.png",
+            "Name": "Phần Thục Thư",
+            "camp": "shu",
+            "aptitude": 15
+        },
+        {
+            "imageUrl": "/image/baovat/thuathaichau.png",
+            "Name": "Thuật Hải Châu",
+            "camp": "wu",
+            "aptitude": 18
+        },
+        {
+            "imageUrl": "/image/baovat/phanthientoa.png",
+            "Name": "Phạn Thiên Tỏa",
+            "camp": "shu",
+            "aptitude": 18
+        }
+    ]
+}
