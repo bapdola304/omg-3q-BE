@@ -1,0 +1,208 @@
+{
+    "anNguaList": [
+        {
+            "imageUrl": "chutuocan.png",
+            "name": "Chu Tước Ấn",
+            "owners": [
+                "tuanuc",
+                "hhu",
+                "tvc",
+                "lactien",
+                "gcl",
+                "bangthong",
+                "hoangtrung",
+                "matac",
+                "phiy",
+                "daikieu",
+                "lotuc",
+                "tuthinh",
+                "tatu",
+                "dieuthuyen",
+                "truonggiac",
+                "ctt"
+            ]
+        },
+        {
+            "imageUrl": "bachhoan.png",
+            "name": "Bạch Hổ Ấn",
+            "owners": [
+                "quachgia",
+                "truongcap",
+                "tuhoang",
+                "dienvi",
+                "quanvu",
+                "truongphi",
+                "nguydien",
+                "tuthu",
+                "tst",
+                "tth",
+                "tonkien",
+                "coung",
+                "lubo",
+                "namhoa",
+                "dongtrac",
+                "trancung",
+                "caothuan"
+            ]
+        },
+        {
+            "imageUrl": "huyenvuan.png",
+            "name": "Huyền Vũ Ấn",
+            "owners": [
+                "truonglieu",
+                "taothao",
+                "huachu",
+                "vucam",
+                "taonhan",
+                "luubi",
+                "manhhoach",
+                "maluong",
+                "chudu",
+                "camninh",
+                "hoangcai",
+                "chuthai",
+                "lotruc",
+                "nhanluong",
+                "trandang",
+                "vienthieu"
+            ]
+        },
+        {
+            "imageUrl": "thanhlongan.png",
+            "name": "Thanh Long Ấn",
+            "owners": [
+                "tmy",
+                "hhd",
+                "chanco",
+                "tuandu",
+                "trieuvan",
+                "khuongduy",
+                "masieu",
+                "chucdung",
+                "phapchinh",
+                "tonsach",
+                "lumong",
+                "vanuong",
+                "lucton",
+                "tieukieu",
+                "tonquyen",
+                "vucat",
+                "giahu",
+                "hoada",
+                "vanxu"
+            ]
+        },
+        {
+            "imageUrl": "ngocsutu.png",
+            "name": "Ngọc Sư Tử",
+            "owners": [
+                "chanco",
+                "tuandu",
+                "dienvi",
+                "taonhan",
+                "trieuvan",
+                "masieu",
+                "chucdung",
+                "phiy",
+                "lumong",
+                "lucton",
+                "tieukieu",
+                "tuthinh",
+                "tatu",
+                "vanxu",
+                "truonggiac",
+                "caothuan"
+            ]
+        },
+        {
+            "imageUrl": "dichlo.png",
+            "name": "Địch Lô",
+            "owners": [
+                "truonglieu",
+                "hhd",
+                "truongcap",
+                "tuhoang",
+                "luubi",
+                "bangthong",
+                "nguydien",
+                "tuthu",
+                "chudu",
+                "tst",
+                "tth",
+                "tonkien",
+                "lotruc",
+                "hoada",
+                "dongtrac",
+                "trancung"
+            ]
+        },
+        {
+            "imageUrl": "xichtho.png",
+            "name": "Xích Thố",
+            "owners": [
+                "tuanuc",
+                "tvc",
+                "vucam",
+                "lactien",
+                "quanvu",
+                "phapchinh",
+                "maluong",
+                "matac",
+                "camninh",
+                "daikieu",
+                "lotuc",
+                "coung",
+                "lubo",
+                "dieuthuyen",
+                "vienthieu",
+                "ctt"
+            ]
+        },
+        {
+            "imageUrl": "phidien.png",
+            "name": "Phi Điện",
+            "owners": [
+                "tmy",
+                "quachgia",
+                "hhu",
+                "taothao",
+                "huachu",
+                "gcl",
+                "khuongduy",
+                "truongphi",
+                "hoangtrung",
+                "manhhoach",
+                "tonsach",
+                "vanuong",
+                "tonquyen",
+                "hoangcai",
+                "chuthai",
+                "vucat",
+                "namhoa",
+                "giahu",
+                "nhanluong",
+                "trandang"
+            ]
+        },
+        {
+            "imageUrl": "hachuman.png",
+            "name": "Hắc Hùm Ấn",
+            "owners": []
+        },
+        {
+            "imageUrl": "kylanan.png",
+            "name": "Kỳ Lân Ấn",
+            "owners": []
+        },
+        {
+            "imageUrl": "bachlong.png",
+            "name": "Bạch Long",
+            "owners": []
+        },
+        {
+            "imageUrl": "oton.png",
+            "name": "Ô Tôn",
+            "owners": []
+        }
+    ]
+}

@@ -156,9 +156,9 @@
             "camp": "we",
             "heroType": "Cam",
             "imgString": "/image/hero/nhactien.png",
-            "heroName": "Nhạc Tiến",
+            "heroName": "Lạc Tiến",
             "aptitude": 12,
-            "heroId": "nhactien"
+            "heroId": "lactien"
         },
         {
             "camp": "we",
