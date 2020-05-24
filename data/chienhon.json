@@ -1,0 +1,148 @@
+{
+    "chienHonList": [
+        {
+            "imageUrl": "chanhapham.png",
+            "name": "Chân-Hạ Phàm",
+            "props": "Tấn công: 300",
+            "upLevel": 60
+        },
+        {
+            "imageUrl": "chanthoty.png",
+            "name": "Chân-Thọ Tỷ",
+            "props": "HP: 1000",
+            "upLevel": 60
+        },
+        {
+            "imageUrl": "chantrimuu.png",
+            "name": "Chân-Trí Mưu",
+            "props": "Pháp công: 300",
+            "upLevel": 60
+        },
+        {
+            "imageUrl": "chanphatruc.png",
+            "name": "Chân-Phá Trúc",
+            "props": "Vật công: 300",
+            "upLevel": 60
+        },
+        {
+            "imageUrl": "chancuongthiet.png",
+            "name": "Chân-Cương Thiết",
+            "props": "Vật phòng: 300",
+            "upLevel": 60
+        },
+        {
+            "imageUrl": "chankienbat.png",
+            "name": "Chân-Kiên Bạt",
+            "props": "Pháp phòng: 300",
+            "upLevel": 60
+        },
+        {
+            "imageUrl": "chandieuhoi.png",
+            "name": "Chân-Diệu Hồi",
+            "props": "Lượng Trị Liệu: 400",
+            "upLevel": 80
+        },
+        {
+            "imageUrl": "chansinhtuc.png",
+            "name": "Chân-Sinh Túc",
+            "props": "Lượng Được Trị Liệu: 600",
+            "upLevel": 120
+        },
+        {
+            "imageUrl": "chanchikich.png",
+            "name": "Chân-Chí Kích",
+            "props": "Tăng Thương Cuối: 450",
+            "upLevel": 90
+        },
+        {
+            "imageUrl": "chanbathoai.png",
+            "name": "Chân-Bất Hoại",
+            "props": "Giảm Thương Cuối: 450",
+            "upLevel": 90
+        },
+        {
+            "imageUrl": "chanhoathieu.png",
+            "name": "Chân-Hỏa Thiêu",
+            "props": "Thiêu Đốt Tăng: 900",
+            "upLevel": 180
+        },
+        {
+            "imageUrl": "chanhuyetdoc.png",
+            "name": "Chân-Huyết Phong",
+            "props": "Nhiếm Độc Tăng: 900",
+            "upLevel": 180
+        },
+        {
+            "imageUrl": "chanbachdoc.png",
+            "name": "Chân-Bách Độc",
+            "props": "Nhiễm Độc Giảm: 1200",
+            "upLevel": 240
+        },
+        {
+            "imageUrl": "chanluyenkim.png",
+            "name": "Chân-Luyện Kim",
+            "props": "Thiêu Đốt Giảm: 1200",
+            "upLevel": 240
+        },
+        {
+            "imageUrl": "chanhungbathienha.png",
+            "name": "Chân-Hùng Bá Thiên Hạ",
+            "props": [
+                "Tấn Công: 200",
+                "HP: 1000"
+            ],
+            "upLevel": [
+                40,
+                200
+            ]
+        },
+        {
+            "imageUrl": "chanvogiaikhakich.png",
+            "name": "Chân-Vô Giải Khả Kích",
+            "props": [
+                "Pháp phòng: 200",
+                "Pháp phòng: 200"
+            ],
+            "upLevel": [
+                40,
+                40
+            ]
+        },
+        {
+            "imageUrl": "chanconhuockimthang.png",
+            "name": "Chân-Cố Nhược Kim Thang",
+            "props": [
+                "Pháp phòng: 200",
+                "HP: 1000"
+            ],
+            "upLevel": [
+                40,
+                200
+            ]
+        },
+        {
+            "imageUrl": "channhucthanthanhthanh.png",
+            "name": "Chân-Nhục Thân Thành Thánh",
+            "props": [
+                "Vật phòng: 200",
+                "HP: 1000"
+            ],
+            "upLevel": [
+                40,
+                200
+            ]
+        },
+        {
+            "imageUrl": "chanthanhthangtranhon.png",
+            "name": "Chân-Thanh Thang Trấn Hồn",
+            "props": [
+                "Thiêu Đốt Giảm: 550",
+                "Nhiễm Độc Giảm: 550"
+            ],
+            "upLevel": [
+                110,
+                110
+            ]
+        }
+    ]
+}

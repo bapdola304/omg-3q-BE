@@ -5,665 +5,760 @@
             "heroType": "Đỏ",
             "imgString": "/image/hero/lubo.png",
             "heroName": "Lữ Bố",
-            "aptitude": 16
+            "aptitude": 16,
+            "heroId": "lubo"
         },
         {
             "camp": "wu",
             "heroType": "Đỏ",
             "imgString": "/image/hero/chudu.png",
             "heroName": "Chu Du",
-            "aptitude": 16
+            "aptitude": 16,
+            "heroId": "chudu"
         },
         {
             "camp": "shu",
             "heroType": "Đỏ",
             "imgString": "/image/hero/trieuvan.png",
             "heroName": "Tiệu Vân",
-            "aptitude": 16
+            "aptitude": 16,
+            "heroId": "trieuvan"
         },
         {
             "camp": "we",
             "heroType": "Đỏ",
             "imgString": "/image/hero/tmy.png",
             "heroName": "Tư Mã Ý",
-            "aptitude": 16
+            "aptitude": 16,
+            "heroId": "tmy"
         },
         {
             "camp": "we",
             "heroType": "Đỏ",
             "imgString": "/image/hero/truonglieu.png",
             "heroName": "Trương Liêu",
-            "aptitude": 16
+            "aptitude": 16,
+            "heroId": "truonglieu"
         },
         {
             "camp": "other",
             "heroType": "Đỏ",
             "imgString": "/image/hero/tatu.png",
             "heroName": "Tả Từ",
-            "aptitude": 16
+            "aptitude": 16,
+            "heroId": "tatu"
         },
         {
             "camp": "wu",
             "heroType": "Đỏ",
             "imgString": "/image/hero/tonsach.png",
             "heroName": "Tôn Sách",
-            "aptitude": 16
+            "aptitude": 16,
+            "heroId": "tonsach"
         },
         {
             "camp": "shu",
             "heroType": "Đỏ",
             "imgString": "/image/hero/gcl.png",
             "heroName": "Gia Cát Lượng",
-            "aptitude": 16
+            "aptitude": 16,
+            "heroId": "gcl"
         },
         {
             "camp": "we",
             "heroType": "Cam",
             "imgString": "/image/hero/quachgia.png",
             "heroName": "Quách Gia",
-            "aptitude": 12
+            "aptitude": 12,
+            "heroId": "quachgia"
         },
         {
             "camp": "we",
             "heroType": "Cam",
             "imgString": "/image/hero/tuanuc.png",
             "heroName": "Tuân Úc",
-            "aptitude": 12
+            "aptitude": 12,
+            "heroId": "tuanuc"
         },
         {
             "camp": "we",
             "heroType": "Cam",
             "imgString": "/image/hero/hhu.png",
             "heroName": "Hạ Hầu Uyên",
-            "aptitude": 12
+            "aptitude": 12,
+            "heroId": "hhu"
         },
         {
             "camp": "we",
             "heroType": "Cam",
             "imgString": "/image/hero/taonhan.png",
             "heroName": "Tào Nhân",
-            "aptitude": 12
+            "aptitude": 12,
+            "heroId": "taonhan"
         },
         {
             "camp": "we",
             "heroType": "Cam",
             "imgString": "/image/hero/taothao.png",
             "heroName": "Tào Tháo",
-            "aptitude": 12
+            "aptitude": 12,
+            "heroId": "taothao"
         },
         {
             "camp": "we",
             "heroType": "Cam",
             "imgString": "/image/hero/hhd.png",
             "heroName": "Hạ Hầu Đôn",
-            "aptitude": 12
+            "aptitude": 12,
+            "heroId": "hhd"
         },
         {
             "camp": "we",
             "heroType": "Cam",
             "imgString": "/image/hero/truongcap.png",
             "heroName": "Trương Cáp",
-            "aptitude": 12
+            "aptitude": 12,
+            "heroId": "truongcap"
         },
         {
             "camp": "we",
             "heroType": "Cam",
             "imgString": "/image/hero/huachu.png",
             "heroName": "Hứa Chử",
-            "aptitude": 12
+            "aptitude": 12,
+            "heroId": "huachu"
         },
         {
             "camp": "we",
             "heroType": "Cam",
             "imgString": "/image/hero/tvc.png",
             "heroName": "Thái Văn Cơ",
-            "aptitude": 12
+            "aptitude": 12,
+            "heroId": "tvc"
         },
         {
             "camp": "we",
             "heroType": "Cam",
             "imgString": "/image/hero/chanco.png",
             "heroName": "Chân Cơ",
-            "aptitude": 12
+            "aptitude": 12,
+            "heroId": "chanco"
         },
         {
             "camp": "we",
             "heroType": "Cam",
             "imgString": "/image/hero/vucam.png",
             "heroName": "Vu Cấm",
-            "aptitude": 12
+            "aptitude": 12,
+            "heroId": "vucam"
         },
         {
             "camp": "we",
             "heroType": "Cam",
             "imgString": "/image/hero/nhactien.png",
             "heroName": "Nhạc Tiến",
-            "aptitude": 12
+            "aptitude": 12,
+            "heroId": "nhactien"
         },
         {
             "camp": "we",
             "heroType": "Cam",
             "imgString": "/image/hero/tuandu.png",
             "heroName": "Tuân Du",
-            "aptitude": 12
+            "aptitude": 12,
+            "heroId": "tuandu"
         },
         {
             "camp": "we",
             "heroType": "Cam",
             "imgString": "/image/hero/tuhoang.png",
             "heroName": "Từ Hoảng",
-            "aptitude": 12
+            "aptitude": 12,
+            "heroId": "tuhoang"
         },
         {
             "camp": "shu",
             "heroType": "Cam",
             "imgString": "/image/hero/khuongduy.png",
             "heroName": "Khương Duy",
-            "aptitude": 12
+            "aptitude": 12,
+            "heroId": "khuongduy"
         },
         {
             "camp": "shu",
             "heroType": "Cam",
             "imgString": "/image/hero/bangthong.png",
             "heroName": "Bàng Thống",
-            "aptitude": 12
+            "aptitude": 12,
+            "heroId": "bangthong"
         },
         {
             "camp": "shu",
             "heroType": "Cam",
             "imgString": "/image/hero/phiy.png",
             "heroName": "Phí Y",
-            "aptitude": 12
+            "aptitude": 12,
+            "heroId": "phiy"
         },
         {
             "camp": "shu",
             "heroType": "Cam",
             "imgString": "/image/hero/phapchinh.png",
             "heroName": "Pháp Chính",
-            "aptitude": 12
+            "aptitude": 12,
+            "heroId": "phapchinh"
         },
         {
             "camp": "shu",
             "heroType": "Cam",
             "imgString": "/image/hero/nguydien.png",
             "heroName": "Ngụy Diên",
-            "aptitude": 12
+            "aptitude": 12,
+            "heroId": "nguydien"
         },
         {
             "camp": "shu",
             "heroType": "Cam",
             "imgString": "/image/hero/luubi.png",
             "heroName": "Lưu Bị",
-            "aptitude": 12
+            "aptitude": 12,
+            "heroId": "luubi"
         },
         {
             "camp": "shu",
             "heroType": "Cam",
             "imgString": "/image/hero/masieu.png",
             "heroName": "Mã Siêu",
-            "aptitude": 12
+            "aptitude": 12,
+            "heroId": "masieu"
         },
         {
             "camp": "shu",
             "heroType": "Cam",
             "imgString": "/image/hero/truongphi.png",
             "heroName": "Trương Phi",
-            "aptitude": 12
+            "aptitude": 12,
+            "heroId": "truongphi"
         },
         {
             "camp": "shu",
             "heroType": "Cam",
             "imgString": "/image/hero/hoangtrung.png",
             "heroName": "Hoàng Trung",
-            "aptitude": 12
+            "aptitude": 12,
+            "heroId": "hoangtrung"
         },
         {
             "camp": "shu",
             "heroType": "Cam",
             "imgString": "/image/hero/tuthu.png",
             "heroName": "Từ Thứ",
-            "aptitude": 12
+            "aptitude": 12,
+            "heroId": "tuthu"
         },
         {
             "camp": "shu",
             "heroType": "Cam",
             "imgString": "/image/hero/manhhoach.png",
             "heroName": "Mạch Hoạch",
-            "aptitude": 12
+            "aptitude": 12,
+            "heroId": "manhhoach"
         },
         {
             "camp": "shu",
             "heroType": "Cam",
             "imgString": "/image/hero/chucdung.png",
             "heroName": "Chúc Dung",
-            "aptitude": 12
+            "aptitude": 12,
+            "heroId": "chucdung"
         },
         {
             "camp": "shu",
             "heroType": "Cam",
             "imgString": "/image/hero/maluong.png",
             "heroName": "Mã Lương",
-            "aptitude": 12
+            "aptitude": 12,
+            "heroId": "maluong"
         },
         {
             "camp": "shu",
             "heroType": "Cam",
             "imgString": "/image/hero/matac.png",
             "heroName": "Mã Tắc",
-            "aptitude": 12
+            "aptitude": 12,
+            "heroId": "matac"
         },
         {
             "camp": "wu",
             "heroType": "Cam",
             "imgString": "/image/hero/tth.png",
             "heroName": "Tôn Thượng Hương",
-            "aptitude": 12
+            "aptitude": 12,
+            "heroId": "tth"
         },
         {
             "camp": "wu",
             "heroType": "Cam",
             "imgString": "/image/hero/vanuong.png",
             "heroName": "Văn Ương",
-            "aptitude": 12
+            "aptitude": 12,
+            "heroId": "vanuong"
         },
         {
             "camp": "wu",
             "heroType": "Cam",
             "imgString": "/image/hero/lumong.png",
             "heroName": "Lữ Mông",
-            "aptitude": 12
+            "aptitude": 12,
+            "heroId": "lumong"
         },
         {
             "camp": "wu",
             "heroType": "Cam",
             "imgString": "/image/hero/coung.png",
             "heroName": "Cố Ung",
-            "aptitude": 12
+            "aptitude": 12,
+            "heroId": "coung"
         },
         {
             "camp": "wu",
             "heroType": "Cam",
             "imgString": "/image/hero/tuthinh.png",
             "heroName": "Từ Thịnh",
-            "aptitude": 12
+            "aptitude": 12,
+            "heroId": "tuthinh"
         },
         {
             "camp": "wu",
             "heroType": "Cam",
             "imgString": "/image/hero/tst.png",
             "heroName": "Thái Sử Từ",
-            "aptitude": 12
+            "aptitude": 12,
+            "heroId": "tst"
         },
         {
             "camp": "wu",
             "heroType": "Cam",
             "imgString": "/image/hero/lucton.png",
             "heroName": "Lục Tốn",
-            "aptitude": 12
+            "aptitude": 12,
+            "heroId": "lucton"
         },
         {
             "camp": "wu",
             "heroType": "Cam",
             "imgString": "/image/hero/daikieu.png",
             "heroName": "Đại Kiều",
-            "aptitude": 12
+            "aptitude": 12,
+            "heroId": "daikieu"
         },
         {
             "camp": "wu",
             "heroType": "Cam",
             "imgString": "/image/hero/tieukieu.png",
             "heroName": "Tiểu Kiều",
-            "aptitude": 12
+            "aptitude": 12,
+            "heroId": "tieukieu"
         },
         {
             "camp": "wu",
             "heroType": "Cam",
             "imgString": "/image/hero/tonkien.png",
             "heroName": "Tôn Kiên",
-            "aptitude": 12
+            "aptitude": 12,
+            "heroId": "tonkien"
         },
         {
             "camp": "wu",
             "heroType": "Cam",
             "imgString": "/image/hero/tonquyen.png",
             "heroName": "Tôn Quyền",
-            "aptitude": 12
+            "aptitude": 12,
+            "heroId": "tonquyen"
         },
         {
             "camp": "wu",
             "heroType": "Cam",
             "imgString": "/image/hero/lotuc.png",
             "heroName": "Lỗ Túc",
-            "aptitude": 12
+            "aptitude": 12,
+            "heroId": "lotuc"
         },
         {
             "camp": "wu",
             "heroType": "Cam",
             "imgString": "/image/hero/hoangcai.png",
             "heroName": "Hoàng Cái",
-            "aptitude": 12
+            "aptitude": 12,
+            "heroId": "hoangcai"
         },
         {
             "camp": "wu",
             "heroType": "Cam",
             "imgString": "/image/hero/chuthai.png",
             "heroName": "Chu Thái",
-            "aptitude": 12
+            "aptitude": 12,
+            "heroId": "chuthai"
         },
         {
             "camp": "other",
             "heroType": "Cam",
             "imgString": "/image/hero/dieuthuyen.png",
             "heroName": "Điêu Thuyền",
-            "aptitude": 12
+            "aptitude": 12,
+            "heroId": "dieuthuyen"
         },
         {
             "camp": "other",
             "heroType": "Cam",
             "imgString": "/image/hero/giahu.png",
             "heroName": "Giả Hủ",
-            "aptitude": 12
+            "aptitude": 12,
+            "heroId": "giahu"
         },
         {
             "camp": "other",
             "heroType": "Cam",
             "imgString": "/image/hero/luthuc.png",
             "heroName": "Lư Thực",
-            "aptitude": 12
+            "aptitude": 12,
+            "heroId": "luthuc"
         },
         {
             "camp": "other",
             "heroType": "Cam",
             "imgString": "/image/hero/namhoa.png",
             "heroName": "Nam Hoa",
-            "aptitude": 12
+            "aptitude": 12,
+            "heroId": "namhoa"
         },
         {
             "camp": "other",
             "heroType": "Cam",
             "imgString": "/image/hero/ctt.png",
             "heroName": "Công Tôn Toản",
-            "aptitude": 12
+            "aptitude": 12,
+            "heroId": "ctt"
         },
         {
             "camp": "other",
             "heroType": "Cam",
             "imgString": "/image/hero/caothuan.png",
             "heroName": "Cao Thuận",
-            "aptitude": 12
+            "aptitude": 12,
+            "heroId": "caothuan"
         },
         {
             "camp": "other",
             "heroType": "Cam",
             "imgString": "/image/hero/hoada.png",
             "heroName": "Hoa Đà",
-            "aptitude": 12
+            "aptitude": 12,
+            "heroId": "hoada"
         },
         {
             "camp": "shu",
             "heroType": "Cam",
             "imgString": "/image/hero/quanvu.png",
             "heroName": "Quan Vũ",
-            "aptitude": 12
+            "aptitude": 12,
+            "heroId": "quanvu"
         },
         {
             "camp": "we",
             "heroType": "Cam",
             "imgString": "/image/hero/dienvi.png",
             "heroName": "Điển Vi",
-            "aptitude": 12
+            "aptitude": 12,
+            "heroId": "dienvi"
         },
         {
             "camp": "wu",
             "heroType": "Cam",
             "imgString": "/image/hero/camninh.png",
             "heroName": "Cam Ninh",
-            "aptitude": 12
+            "aptitude": 12,
+            "heroId": "camninh"
         },
         {
             "camp": "other",
             "heroType": "Cam",
             "imgString": "/image/hero/vucat.png",
             "heroName": "Vu Cát",
-            "aptitude": 12
+            "aptitude": 12,
+            "heroId": "vucat"
         },
         {
             "camp": "other",
             "heroType": "Cam",
             "imgString": "/image/hero/dongtrac.png",
             "heroName": "Đổng Trác",
-            "aptitude": 12
+            "aptitude": 12,
+            "heroId": "dongtrac"
         },
         {
             "camp": "other",
             "heroType": "Cam",
             "imgString": "/image/hero/nhanluong.png",
             "heroName": "Nhan Lương",
-            "aptitude": 12
+            "aptitude": 12,
+            "heroId": "nhanluong"
         },
         {
             "camp": "other",
             "heroType": "Cam",
             "imgString": "/image/hero/vanxu.png",
             "heroName": "Văn Xú",
-            "aptitude": 12
+            "aptitude": 12,
+            "heroId": "vanxu"
         },
         {
             "camp": "other",
             "heroType": "Cam",
             "imgString": "/image/hero/trancung.png",
             "heroName": "Trần Cung",
-            "aptitude": 12
+            "aptitude": 12,
+            "heroId": "trancung"
         },
         {
             "camp": "other",
             "heroType": "Cam",
             "imgString": "/image/hero/trandang.png",
             "heroName": "Trần Đăng",
-            "aptitude": 12
+            "aptitude": 12,
+            "heroId": "trandang"
         },
         {
             "camp": "other",
             "heroType": "Cam",
             "imgString": "/image/hero/truonggiac.png",
             "heroName": "Trương Giác",
-            "aptitude": 12
+            "aptitude": 12,
+            "heroId": "truonggiac"
         },
         {
             "camp": "other",
             "heroType": "Cam",
             "imgString": "/image/hero/vienthieu.png",
             "heroName": "Viên Thiệu",
-            "aptitude": 12
+            "aptitude": 12,
+            "heroId": "vienthieu"
         },
         {
             "camp": "we",
             "heroType": "Tím",
             "imgString": "/image/hero/taothuc.png",
             "heroName": "Tào Thực",
-            "aptitude": 10
+            "aptitude": 10,
+            "heroId": "taothuc"
         },
         {
             "camp": "we",
             "heroType": "Tím",
             "imgString": "/image/hero/bnn.png",
             "heroName": "Biện Ngọc Nhi",
-            "aptitude": 10
+            "aptitude": 10,
+            "heroId": "bnn"
         },
         {
             "camp": "we",
             "heroType": "Tím",
             "imgString": "/image/hero/duongtu.png",
             "heroName": "Dương Tu",
-            "aptitude": 10
+            "aptitude": 10,
+            "heroId": "duongtu"
         },
         {
             "camp": "we",
             "heroType": "Tím",
             "imgString": "/image/hero/vansinh.png",
             "heroName": "Văn Sính",
-            "aptitude": 10
+            "aptitude": 10,
+            "heroId": "vansinh"
         },
         {
             "camp": "we",
             "heroType": "Tím",
             "imgString": "/image/hero/tmc.png",
             "heroName": "Tư Mã Chiêu",
-            "aptitude": 10
+            "aptitude": 10,
+            "heroId": "tmc"
         },
         {
             "camp": "shu",
             "heroType": "Tím",
             "imgString": "/image/hero/quanbinh.png",
             "heroName": "Quan Bình",
-            "aptitude": 10
+            "aptitude": 10,
+            "heroId": "quanbinh"
         },
         {
             "camp": "shu",
             "heroType": "Tím",
             "imgString": "/image/hero/mpn.png",
             "heroName": "Mi Phu Nhân",
-            "aptitude": 10
+            "aptitude": 10,
+            "heroId": "mpn"
         },
         {
             "camp": "shu",
             "heroType": "Tím",
             "imgString": "/image/hero/lieuhoa.png",
             "heroName": "Liêu Hóa",
-            "aptitude": 10
+            "aptitude": 10,
+            "heroId": "lieuhoa"
         },
         {
             "camp": "shu",
             "heroType": "Tím",
             "imgString": "/image/hero/chuthuong.png",
             "heroName": "Chu Thương",
-            "aptitude": 10
+            "aptitude": 10,
+            "heroId": "chuthuong"
         },
         {
             "camp": "wu",
             "heroType": "Tím",
             "imgString": "/image/hero/chuhoan.png",
             "heroName": "Chu Hoàn",
-            "aptitude": 10
+            "aptitude": 10,
+            "heroId": "chuhoan"
         },
         {
             "camp": "wu",
             "heroType": "Tím",
             "imgString": "/image/hero/dinhphung.png",
             "heroName": "Đinh Phụng",
-            "aptitude": 10
+            "aptitude": 10,
+            "heroId": "dinhphung"
         },
         {
             "camp": "wu",
             "heroType": "Tím",
             "imgString": "/image/hero/tlb.png",
             "heroName": "Tôn Lỗ Ban",
-            "aptitude": 10
+            "aptitude": 10,
+            "heroId": "tlb"
         },
         {
             "camp": "wu",
             "heroType": "Tím",
             "imgString": "/image/hero/gcc.png",
             "heroName": "Gia Cát Cẩn",
-            "aptitude": 10
+            "aptitude": 10,
+            "heroId": "gcc"
         },
         {
             "camp": "wu",
             "heroType": "Tím",
             "imgString": "/image/hero/langthong.png",
             "heroName": "Lăng Thống",
-            "aptitude": 10
+            "aptitude": 10,
+            "heroId": "langthong"
         },
         {
             "camp": "wu",
             "heroType": "Tím",
             "imgString": "/image/hero/gck.png",
             "heroName": "Gia Cát Khác",
-            "aptitude": 10
+            "aptitude": 10,
+            "heroId": "gck"
         },
         {
             "camp": "wu",
             "heroType": "Tím",
             "imgString": "/image/hero/phanchuong.png",
             "heroName": "Phan Chương",
-            "aptitude": 10
+            "aptitude": 10,
+            "heroId": "phanchuong"
         },
         {
             "camp": "other",
             "heroType": "Tím",
             "imgString": "/image/hero/hoahung.png",
             "heroName": "Hoa Hùng",
-            "aptitude": 10
+            "aptitude": 10,
+            "heroId": "hoahung"
         },
         {
             "camp": "other",
             "heroType": "Tím",
             "imgString": "/image/hero/truongbao.png",
             "heroName": "Trương Bảo",
-            "aptitude": 10
+            "aptitude": 10,
+            "heroId": "truongbao"
         },
         {
             "camp": "other",
             "heroType": "Tím",
             "imgString": "/image/hero/truongtu.png",
             "heroName": "Trương Tú",
-            "aptitude": 10
+            "aptitude": 10,
+            "heroId": "truongtu"
         },
         {
             "camp": "other",
             "heroType": "Tím",
             "imgString": "/image/hero/lynho.png",
             "heroName": "Lý Nho",
-            "aptitude": 10
+            "aptitude": 10,
+            "heroId": "lynho"
         },
         {
             "camp": "other",
             "heroType": "Tím",
             "imgString": "/image/hero/vienthuat.png",
             "heroName": "Viên Thuật",
-            "aptitude": 10
+            "aptitude": 10,
+            "heroId": "vienthuat"
         },
         {
             "camp": "other",
             "heroType": "Tím",
             "imgString": "/image/hero/luubieu.png",
             "heroName": "Lưu Biểu",
-            "aptitude": 10
+            "aptitude": 10,
+            "heroId": "luubieu"
         },
         {
             "camp": "other",
             "heroType": "Tím",
             "imgString": "/image/hero/tha.png",
             "heroName": "Tân Hiến Anh",
-            "aptitude": 10
+            "aptitude": 10,
+            "heroId": "tha"
         },
         {
             "camp": "we",
             "heroType": "Tím",
             "imgString": "/image/hero/txh.png",
             "heroName": "Trương Xuân Hoa",
-            "aptitude": 10
+            "aptitude": 10,
+            "heroId": "txh"
         },
         {
             "camp": "shu",
             "heroType": "Tím",
             "imgString": "/image/hero/hna.png",
             "heroName": "Hoàng Nguyệt Anh",
-            "aptitude": 10
+            "aptitude": 10,
+            "heroId": "hna"
         },
         {
             "camp": "shu",
             "heroType": "Tím",
             "imgString": "/image/hero/ttt.png",
             "heroName": "Trương Tinh Thái",
-            "aptitude": 10
+            "aptitude": 10,
+            "heroId": "ttt"
         },
         {
             "camp": "shu",
             "heroType": "Tím",
             "imgString": "/image/hero/qnb.png",
             "heroName": "Quan Ngân Bình",
-            "aptitude": 10
+            "aptitude": 10,
+            "heroId": "qnb"
         }
     ]
 }
