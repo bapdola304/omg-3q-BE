@@ -44,7 +44,7 @@ router.get('/', function (req, resp, next) {
     //       chienHonList = [...chienHonList, data];
     //     });
     //     resp.send(chienHonList);
-    //   });
+    //   });`
 });
 
 module.exports = router;
