@@ -1,0 +1,257 @@
+{
+    "upgradeOrangeHero": [
+        {
+            "aptitude": 10,
+            "type": "tc10",
+            "upgrade": [
+                {
+                    "id": "b1",
+                    "resource": 300,
+                    "hero": 3
+                },
+                {
+                    "id": "b2",
+                    "resource": 600,
+                    "hero": 3
+                },
+                {
+                    "id": "b3",
+                    "resource": 1000,
+                    "hero": 6
+                },
+                {
+                    "id": "b4",
+                    "resource": 1500,
+                    "hero": 6
+                },
+                {
+                    "id": "b5",
+                    "resource": 2000,
+                    "hero": 9
+                }
+            ],
+            "resourceTotal": 5400,
+            "heroTotal": 27
+        },
+        {
+            "aptitude": 12,
+            "type": "Cam",
+            "upgrade": [
+                {
+                    "id": "b1",
+                    "resource": 200,
+                    "hero": 2
+                },
+                {
+                    "id": "b2",
+                    "resource": 400,
+                    "hero": 2
+                },
+                {
+                    "id": "b3",
+                    "resource": 600,
+                    "hero": 4
+                },
+                {
+                    "id": "b4",
+                    "resource": 900,
+                    "hero": 4
+                },
+                {
+                    "id": "b5",
+                    "resource": 1200,
+                    "hero": 6
+                }
+            ],
+            "resourceTotal": 3300,
+            "heroTotal": 18
+        },
+        {
+            "aptitude": 12,
+            "type": "Hot",
+            "upgrade": [
+                {
+                    "id": "b1",
+                    "resource": 200,
+                    "hero": 1
+                },
+                {
+                    "id": "b2",
+                    "resource": 400,
+                    "hero": 1
+                },
+                {
+                    "id": "b3",
+                    "resource": 600,
+                    "hero": 2
+                },
+                {
+                    "id": "b4",
+                    "resource": 900,
+                    "hero": 2
+                },
+                {
+                    "id": "b5",
+                    "resource": 1200,
+                    "hero": 3
+                }
+            ],
+            "resourceTotal": 3300,
+            "heroTotal": 9
+        }
+    ],
+    "upgradeRedHero": [
+        {
+            "aptitude": 10,
+            "type": "tc10",
+            "upgrade": [
+                {
+                    "id": "b1",
+                    "resource": 750,
+                    "hero": 3
+                },
+                {
+                    "id": "b2",
+                    "resource": 1000,
+                    "hero": 6
+                },
+                {
+                    "id": "b3",
+                    "resource": 1250,
+                    "hero": 9
+                },
+                {
+                    "id": "b4",
+                    "resource": 1750,
+                    "hero": 12
+                },
+                {
+                    "id": "b5",
+                    "resource": 2500,
+                    "hero": 18
+                },
+                {
+                    "id": "b6",
+                    "resource": 3000,
+                    "hero": 18
+                }
+            ],
+            "resourceTotal": 10250,
+            "heroTotal": 66
+        },
+        {
+            "aptitude": 12,
+            "type": "Cam",
+            "upgrade": [
+                {
+                    "id": "b1",
+                    "resource": 750,
+                    "hero": 2
+                },
+                {
+                    "id": "b2",
+                    "resource": 1000,
+                    "hero": 4
+                },
+                {
+                    "id": "b3",
+                    "resource": 1250,
+                    "hero": 6
+                },
+                {
+                    "id": "b4",
+                    "resource": 1750,
+                    "hero": 8
+                },
+                {
+                    "id": "b5",
+                    "resource": 2500,
+                    "hero": 12
+                },
+                {
+                    "id": "b6",
+                    "resource": 3000,
+                    "hero": 12
+                }
+            ],
+            "resourceTotal": 10250,
+            "heroTotal": 44
+        },
+        {
+            "aptitude": 12,
+            "type": "Hot",
+            "upgrade": [
+                {
+                    "id": "b1",
+                    "resource": 750,
+                    "hero": 2
+                },
+                {
+                    "id": "b2",
+                    "resource": 1000,
+                    "hero": 3
+                },
+                {
+                    "id": "b3",
+                    "resource": 1250,
+                    "hero": 4
+                },
+                {
+                    "id": "b4",
+                    "resource": 1750,
+                    "hero": 6
+                },
+                {
+                    "id": "b5",
+                    "resource": 2500,
+                    "hero": 9
+                },
+                {
+                    "id": "b6",
+                    "resource": 3000,
+                    "hero": 9
+                }
+            ],
+            "resourceTotal": 10250,
+            "heroTotal": 33
+        },
+        {
+            "aptitude": 16,
+            "type": "Đỏ",
+            "upgrade": [
+                {
+                    "id": "b1",
+                    "resource": 750,
+                    "hero": 1
+                },
+                {
+                    "id": "b2",
+                    "resource": 1000,
+                    "hero": 2
+                },
+                {
+                    "id": "b3",
+                    "resource": 1250,
+                    "hero": 3
+                },
+                {
+                    "id": "b4",
+                    "resource": 1750,
+                    "hero": 4
+                },
+                {
+                    "id": "b5",
+                    "resource": 2500,
+                    "hero": 6
+                },
+                {
+                    "id": "b6",
+                    "resource": 3000,
+                    "hero": 6
+                }
+            ],
+            "resourceTotal": 10250,
+            "heroTotal": 22
+        }
+    ]
+}

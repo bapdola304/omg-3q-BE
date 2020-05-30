@@ -39,13 +39,29 @@ router.get('/', function (req, resp, next) {
 
 router.get('/:id', function (req, resp, next) {
     var id = req.params.id;
-    const heroList = fs.readFileSync('./data/heroDetail.json');
+    const heroDetailList = fs.readFileSync('./data/heroDetail.json');
+    const heroDetailListFormat = JSON.parse(heroDetailList);
+    const { herosDetail } = heroDetailListFormat;
+    const heroList = fs.readFileSync('./data/heros.json');
     const herosFomat = JSON.parse(heroList);
-    const { herosDetail } = herosFomat;
+    const { heros } = herosFomat;
+    const upgradeHeroList = fs.readFileSync('./data/dotphatuong.json');
+    const upgradeHeroListFomat = JSON.parse(upgradeHeroList);
+    const { upgradeOrangeHero, upgradeRedHero } = upgradeHeroListFomat;
+    const heroTarget = heros.find(hero => hero.heroId === id);
+    const { heroType = '' } = heroTarget;
+    console.log('heroTarget',heroTarget);
+    
     const hero = herosDetail.find(heroDetail => heroDetail.heroId === id);
-    resp.send(hero);
+    const upgradeOrangeHeroTemp = upgradeOrangeHero.find(item => item.type === heroType);
+    const upgradeRedHeroTemp = upgradeRedHero.find(item => item.type === heroType);  
+    const heroTemp = {
+        ...hero,
+        upgradeOrangeHero: upgradeOrangeHeroTemp,
+        upgradeRedHero: upgradeRedHeroTemp
+    }
+    resp.send(heroTemp);
     // console.log(`https://tamquoc1st.info/talent/${id}.html `);
-
     // request(`https://tamquoc1st.info/talent/${id}.html`, function (err, res, body) {
     //     var $ = cheerio.load(body);
     //     var chiso = $(body).find(".sxlist li");

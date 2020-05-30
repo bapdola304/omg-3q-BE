@@ -66,7 +66,7 @@
         },
         {
             "camp": "we",
-            "heroType": "Cam",
+            "heroType": "Hot",
             "imgString": "/image/hero/quachgia.png",
             "heroName": "Quách Gia",
             "aptitude": 12,
@@ -74,7 +74,7 @@
         },
         {
             "camp": "we",
-            "heroType": "Cam",
+            "heroType": "Hot",
             "imgString": "/image/hero/tuanuc.png",
             "heroName": "Tuân Úc",
             "aptitude": 12,
@@ -178,7 +178,7 @@
         },
         {
             "camp": "shu",
-            "heroType": "Cam",
+            "heroType": "Hot",
             "imgString": "/image/hero/khuongduy.png",
             "heroName": "Khương Duy",
             "aptitude": 12,
@@ -186,7 +186,7 @@
         },
         {
             "camp": "shu",
-            "heroType": "Cam",
+            "heroType": "Hot",
             "imgString": "/image/hero/bangthong.png",
             "heroName": "Bàng Thống",
             "aptitude": 12,
@@ -298,7 +298,7 @@
         },
         {
             "camp": "wu",
-            "heroType": "Cam",
+            "heroType": "Hot",
             "imgString": "/image/hero/vanuong.png",
             "heroName": "Văn Ương",
             "aptitude": 12,
@@ -306,7 +306,7 @@
         },
         {
             "camp": "wu",
-            "heroType": "Cam",
+            "heroType": "Hot",
             "imgString": "/image/hero/lumong.png",
             "heroName": "Lữ Mông",
             "aptitude": 12,
@@ -418,7 +418,7 @@
         },
         {
             "camp": "other",
-            "heroType": "Cam",
+            "heroType": "Hot",
             "imgString": "/image/hero/luthuc.png",
             "heroName": "Lư Thực",
             "aptitude": 12,
@@ -426,7 +426,7 @@
         },
         {
             "camp": "other",
-            "heroType": "Cam",
+            "heroType": "Hot",
             "imgString": "/image/hero/namhoa.png",
             "heroName": "Nam Hoa",
             "aptitude": 12,
@@ -458,7 +458,7 @@
         },
         {
             "camp": "shu",
-            "heroType": "Cam",
+            "heroType": "Hot",
             "imgString": "/image/hero/quanvu.png",
             "heroName": "Quan Vũ",
             "aptitude": 12,
@@ -466,7 +466,7 @@
         },
         {
             "camp": "we",
-            "heroType": "Cam",
+            "heroType": "Hot",
             "imgString": "/image/hero/dienvi.png",
             "heroName": "Điển Vi",
             "aptitude": 12,
@@ -474,7 +474,7 @@
         },
         {
             "camp": "wu",
-            "heroType": "Cam",
+            "heroType": "Hot",
             "imgString": "/image/hero/camninh.png",
             "heroName": "Cam Ninh",
             "aptitude": 12,
@@ -482,7 +482,7 @@
         },
         {
             "camp": "other",
-            "heroType": "Cam",
+            "heroType": "Hot",
             "imgString": "/image/hero/vucat.png",
             "heroName": "Vu Cát",
             "aptitude": 12,
