@@ -48,17 +48,26 @@ router.get('/:id', function (req, resp, next) {
     const upgradeHeroList = fs.readFileSync('./data/dotphatuong.json');
     const upgradeHeroListFomat = JSON.parse(upgradeHeroList);
     const { upgradeOrangeHero, upgradeRedHero } = upgradeHeroListFomat;
+    const giacTinhTuongList = fs.readFileSync('./data/giactinhtuong.json');
+    const giacTinhTuongFormat = JSON.parse(giacTinhTuongList);
+    const { giacTinhTuong } = giacTinhTuongFormat;
+    console.log('giacTinhTuong',giacTinhTuong);
+    
     const heroTarget = heros.find(hero => hero.heroId === id);
-    const { heroType = '' } = heroTarget;
-    console.log('heroTarget',heroTarget);
+    const { heroType = '', aptitude = 10 } = heroTarget;
+    console.log('aptitude', aptitude);
     
     const hero = herosDetail.find(heroDetail => heroDetail.heroId === id);
     const upgradeOrangeHeroTemp = upgradeOrangeHero.find(item => item.type === heroType);
-    const upgradeRedHeroTemp = upgradeRedHero.find(item => item.type === heroType);  
+    const upgradeRedHeroTemp = upgradeRedHero.find(item => item.type === heroType);
+    const giacTinhSelected = giacTinhTuong.find(gtt => gtt.aptitude === aptitude);
+    console.log('giacTinhSelected', giacTinhSelected);
+    
     const heroTemp = {
         ...hero,
         upgradeOrangeHero: upgradeOrangeHeroTemp,
-        upgradeRedHero: upgradeRedHeroTemp
+        upgradeRedHero: upgradeRedHeroTemp,
+        giacTinhTuong: giacTinhSelected
     }
     resp.send(heroTemp);
     // console.log(`https://tamquoc1st.info/talent/${id}.html `);

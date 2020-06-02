@@ -1,0 +1,508 @@
+{
+    "giacTinhTuong": [
+        {
+            "aptitude": 10,
+            "type": "Cam",
+            "gtdTotal": 5200,
+            "heroTotal": 36,
+            "upgrade": [
+                {
+                    "id": "1sao",
+                    "gtd": 400,
+                    "hero": 3,
+                    "gtDetail": [
+                        {
+                            "id": "b1",
+                            "gtdDetail": 40,
+                            "heroDetail": 0
+                        },
+                        {
+                            "id": "b2",
+                            "gtdDetail": 60,
+                            "heroDetail": 0
+                        },
+                        {
+                            "id": "b3",
+                            "gtdDetail": 80,
+                            "heroDetail": 0
+                        },
+                        {
+                            "id": "b4",
+                            "gtdDetail": 100,
+                            "heroDetail": 1
+                        },
+                        {
+                            "id": "b5",
+                            "gtdDetail": 120,
+                            "heroDetail": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "2sao",
+                    "gtd": 800,
+                    "hero": 6,
+                    "gtDetail": [
+                        {
+                            "id": "b1",
+                            "gtdDetail": 80,
+                            "heroDetail": 0
+                        },
+                        {
+                            "id": "b2",
+                            "gtdDetail": 120,
+                            "heroDetail": 0
+                        },
+                        {
+                            "id": "b3",
+                            "gtdDetail": 160,
+                            "heroDetail": 1
+                        },
+                        {
+                            "id": "b4",
+                            "gtdDetail": 200,
+                            "heroDetail": 1
+                        },
+                        {
+                            "id": "b5",
+                            "gtdDetail": 240,
+                            "heroDetail": 4
+                        }
+                    ]
+                },
+                {
+                    "id": "3sao",
+                    "gtd": 800,
+                    "hero": 6,
+                    "gtDetail": [
+                        {
+                            "id": "b1",
+                            "gtdDetail": 80,
+                            "heroDetail": 0
+                        },
+                        {
+                            "id": "b2",
+                            "gtdDetail": 120,
+                            "heroDetail": 0
+                        },
+                        {
+                            "id": "b3",
+                            "gtdDetail": 160,
+                            "heroDetail": 1
+                        },
+                        {
+                            "id": "b4",
+                            "gtdDetail": 200,
+                            "heroDetail": 1
+                        },
+                        {
+                            "id": "b5",
+                            "gtdDetail": 240,
+                            "heroDetail": 4
+                        }
+                    ]
+                },
+                {
+                    "id": "4sao",
+                    "gtd": 1200,
+                    "hero": 9,
+                    "gtDetail": [
+                        {
+                            "id": "b1",
+                            "gtdDetail": 120,
+                            "heroDetail": 0
+                        },
+                        {
+                            "id": "b2",
+                            "gtdDetail": 180,
+                            "heroDetail": 0
+                        },
+                        {
+                            "id": "b3",
+                            "gtdDetail": 240,
+                            "heroDetail": 1
+                        },
+                        {
+                            "id": "b4",
+                            "gtdDetail": 300,
+                            "heroDetail": 2
+                        },
+                        {
+                            "id": "b5",
+                            "gtdDetail": 360,
+                            "heroDetail": 6
+                        }
+                    ]
+                },
+                {
+                    "id": "5sao",
+                    "gtd": 2000,
+                    "hero": 12,
+                    "gtDetail": [
+                        {
+                            "id": "b1",
+                            "gtdDetail": 200,
+                            "heroDetail": 0
+                        },
+                        {
+                            "id": "b2",
+                            "gtdDetail": 300,
+                            "heroDetail": 0
+                        },
+                        {
+                            "id": "b3",
+                            "gtdDetail": 400,
+                            "heroDetail": 2
+                        },
+                        {
+                            "id": "b4",
+                            "gtdDetail": 500,
+                            "heroDetail": 2
+                        },
+                        {
+                            "id": "b5",
+                            "gtdDetail": 600,
+                            "heroDetail": 8
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "aptitude": 12,
+            "type": "Cam",
+            "gtdTotal": 5200,
+            "heroTotal": 24,
+            "upgrade": [
+                {
+                    "id": "1sao",
+                    "gtd": 400,
+                    "hero": 2,
+                    "gtDetail": [
+                        {
+                            "id": "b1",
+                            "gtdDetail": 40,
+                            "heroDetail": 0
+                        },
+                        {
+                            "id": "b2",
+                            "gtdDetail": 60,
+                            "heroDetail": 0
+                        },
+                        {
+                            "id": "b3",
+                            "gtdDetail": 80,
+                            "heroDetail": 0
+                        },
+                        {
+                            "id": "b4",
+                            "gtdDetail": 100,
+                            "heroDetail": 0
+                        },
+                        {
+                            "id": "b5",
+                            "gtdDetail": 120,
+                            "heroDetail": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "2sao",
+                    "gtd": 800,
+                    "hero": 4,
+                    "gtDetail": [
+                        {
+                            "id": "b1",
+                            "gtdDetail": 80,
+                            "heroDetail": 0
+                        },
+                        {
+                            "id": "b2",
+                            "gtdDetail": 120,
+                            "heroDetail": 0
+                        },
+                        {
+                            "id": "b3",
+                            "gtdDetail": 160,
+                            "heroDetail": 0
+                        },
+                        {
+                            "id": "b4",
+                            "gtdDetail": 200,
+                            "heroDetail": 1
+                        },
+                        {
+                            "id": "b5",
+                            "gtdDetail": 240,
+                            "heroDetail": 3
+                        }
+                    ]
+                },
+                {
+                    "id": "3sao",
+                    "gtd": 800,
+                    "hero": 4,
+                    "gtDetail": [
+                        {
+                            "id": "b1",
+                            "gtdDetail": 80,
+                            "heroDetail": 0
+                        },
+                        {
+                            "id": "b2",
+                            "gtdDetail": 120,
+                            "heroDetail": 0
+                        },
+                        {
+                            "id": "b3",
+                            "gtdDetail": 160,
+                            "heroDetail": 0
+                        },
+                        {
+                            "id": "b4",
+                            "gtdDetail": 200,
+                            "heroDetail": 1
+                        },
+                        {
+                            "id": "b5",
+                            "gtdDetail": 240,
+                            "heroDetail": 3
+                        }
+                    ]
+                },
+                {
+                    "id": "4sao",
+                    "gtd": 1200,
+                    "hero": 6,
+                    "gtDetail": [
+                        {
+                            "id": "b1",
+                            "gtdDetail": 120,
+                            "heroDetail": 0
+                        },
+                        {
+                            "id": "b2",
+                            "gtdDetail": 180,
+                            "heroDetail": 0
+                        },
+                        {
+                            "id": "b3",
+                            "gtdDetail": 240,
+                            "heroDetail": 1
+                        },
+                        {
+                            "id": "b4",
+                            "gtdDetail": 300,
+                            "heroDetail": 1
+                        },
+                        {
+                            "id": "b5",
+                            "gtdDetail": 360,
+                            "heroDetail": 4
+                        }
+                    ]
+                },
+                {
+                    "id": "5sao",
+                    "gtd": 2000,
+                    "hero": 8,
+                    "gtDetail": [
+                        {
+                            "id": "b1",
+                            "gtdDetail": 200,
+                            "heroDetail": 0
+                        },
+                        {
+                            "id": "b2",
+                            "gtdDetail": 300,
+                            "heroDetail": 0
+                        },
+                        {
+                            "id": "b3",
+                            "gtdDetail": 400,
+                            "heroDetail": 1
+                        },
+                        {
+                            "id": "b4",
+                            "gtdDetail": 500,
+                            "heroDetail": 2
+                        },
+                        {
+                            "id": "b5",
+                            "gtdDetail": 600,
+                            "heroDetail": 5
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "aptitude": 16,
+            "type": "Cam",
+            "gtdTotal": 7800,
+            "heroTotal": 24,
+            "upgrade": [
+                {
+                    "id": "1sao",
+                    "gtd": 600,
+                    "hero": 2,
+                    "gtDetail": [
+                        {
+                            "id": "b1",
+                            "gtdDetail": 60,
+                            "heroDetail": 0
+                        },
+                        {
+                            "id": "b2",
+                            "gtdDetail": 90,
+                            "heroDetail": 0
+                        },
+                        {
+                            "id": "b3",
+                            "gtdDetail": 120,
+                            "heroDetail": 0
+                        },
+                        {
+                            "id": "b4",
+                            "gtdDetail": 150,
+                            "heroDetail": 0
+                        },
+                        {
+                            "id": "b5",
+                            "gtdDetail": 180,
+                            "heroDetail": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "2sao",
+                    "gtd": 1200,
+                    "hero": 4,
+                    "gtDetail": [
+                        {
+                            "id": "b1",
+                            "gtdDetail": 120,
+                            "heroDetail": 0
+                        },
+                        {
+                            "id": "b2",
+                            "gtdDetail": 180,
+                            "heroDetail": 0
+                        },
+                        {
+                            "id": "b3",
+                            "gtdDetail": 240,
+                            "heroDetail": 1
+                        },
+                        {
+                            "id": "b4",
+                            "gtdDetail": 300,
+                            "heroDetail": 1
+                        },
+                        {
+                            "id": "b5",
+                            "gtdDetail": 360,
+                            "heroDetail": 3
+                        }
+                    ]
+                },
+                {
+                    "id": "3sao",
+                    "gtd": 1200,
+                    "hero": 4,
+                    "gtDetail": [
+                        {
+                            "id": "b1",
+                            "gtdDetail": 120,
+                            "heroDetail": 0
+                        },
+                        {
+                            "id": "b2",
+                            "gtdDetail": 180,
+                            "heroDetail": 0
+                        },
+                        {
+                            "id": "b3",
+                            "gtdDetail": 240,
+                            "heroDetail": 1
+                        },
+                        {
+                            "id": "b4",
+                            "gtdDetail": 300,
+                            "heroDetail": 1
+                        },
+                        {
+                            "id": "b5",
+                            "gtdDetail": 360,
+                            "heroDetail": 3
+                        }
+                    ]
+                },
+                {
+                    "id": "4sao",
+                    "gtd": 1800,
+                    "hero":6,
+                    "gtDetail": [
+                        {
+                            "id": "b1",
+                            "gtdDetail": 180,
+                            "heroDetail": 0
+                        },
+                        {
+                            "id": "b2",
+                            "gtdDetail": 270,
+                            "heroDetail": 0
+                        },
+                        {
+                            "id": "b3",
+                            "gtdDetail": 360,
+                            "heroDetail": 1
+                        },
+                        {
+                            "id": "b4",
+                            "gtdDetail": 450,
+                            "heroDetail": 1
+                        },
+                        {
+                            "id": "b5",
+                            "gtdDetail": 540,
+                            "heroDetail": 4
+                        }
+                    ]
+                },
+                {
+                    "id": "5sao",
+                    "gtd": 3000,
+                    "hero": 8,
+                    "gtDetail": [
+                        {
+                            "id": "b1",
+                            "gtdDetail": 300,
+                            "heroDetail": 0
+                        },
+                        {
+                            "id": "b2",
+                            "gtdDetail": 450,
+                            "heroDetail": 0
+                        },
+                        {
+                            "id": "b3",
+                            "gtdDetail": 600,
+                            "heroDetail": 1
+                        },
+                        {
+                            "id": "b4",
+                            "gtdDetail": 750,
+                            "heroDetail": 2
+                        },
+                        {
+                            "id": "b5",
+                            "gtdDetail": 900,
+                            "heroDetail": 5
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
