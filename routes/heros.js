@@ -6,7 +6,7 @@ const fs = require("fs");
 
 /* GET users listing. */
 router.get('/', function (req, resp, next) {
-    const heroList = fs.readFileSync('./data/heros.json');
+    const heroList = fs.readFileSync('./data/heroNew.json');
     const herosFomat = JSON.parse(heroList);
     const { heros } = herosFomat;
     if (heros && heros.length) {
@@ -42,7 +42,7 @@ router.get('/:id', function (req, resp, next) {
     const heroDetailList = fs.readFileSync('./data/heroDetail.json');
     const heroDetailListFormat = JSON.parse(heroDetailList);
     const { herosDetail } = heroDetailListFormat;
-    const heroList = fs.readFileSync('./data/heros.json');
+    const heroList = fs.readFileSync('./data/heroNew.json');
     const herosFomat = JSON.parse(heroList);
     const { heros } = herosFomat;
     const upgradeHeroList = fs.readFileSync('./data/dotphatuong.json');
@@ -50,26 +50,38 @@ router.get('/:id', function (req, resp, next) {
     const { upgradeOrangeHero, upgradeRedHero } = upgradeHeroListFomat;
     const giacTinhTuongList = fs.readFileSync('./data/giactinhtuong.json');
     const giacTinhTuongFormat = JSON.parse(giacTinhTuongList);
-    const { giacTinhTuong } = giacTinhTuongFormat;
-    console.log('giacTinhTuong',giacTinhTuong);
-    
+    const { giacTinhTuong } = giacTinhTuongFormat; 
     const heroTarget = heros.find(hero => hero.heroId === id);
-    const { heroType = '', aptitude = 10 } = heroTarget;
-    console.log('aptitude', aptitude);
-    
+    const { quality = '', aptitude = 10, image = '' } = heroTarget;
     const hero = herosDetail.find(heroDetail => heroDetail.heroId === id);
-    const upgradeOrangeHeroTemp = upgradeOrangeHero.find(item => item.type === heroType);
-    const upgradeRedHeroTemp = upgradeRedHero.find(item => item.type === heroType);
+    const upgradeOrangeHeroTemp = upgradeOrangeHero.find(item => item.type === quality);
+    const upgradeRedHeroTemp = upgradeRedHero.find(item => item.type === quality);
     const giacTinhSelected = giacTinhTuong.find(gtt => gtt.aptitude === aptitude);
-    console.log('giacTinhSelected', giacTinhSelected);
-    
+    const { fetter = [] } = heroTarget;
+    const fetterFilter = fetter.slice(0, fetter.length - 3).map(item => {
+          let contentFormat = item.content.map(i => {       
+            return {                
+                name: heros[parseInt(i)].name && heros[parseInt(i)].name,
+                image: heros[parseInt(i)].image,
+                camp: heros[parseInt(i)].camp,
+                quality: heros[parseInt(i)].quality,
+                aptitude: heros[parseInt(i)].aptitude,
+            };
+        });
+        item.content = contentFormat;
+        return item;
+    })
+    let fetterFormat = fetterFilter.slice(0, 7);
     const heroTemp = {
         ...hero,
+        heroImg:image,
         upgradeOrangeHero: upgradeOrangeHeroTemp,
         upgradeRedHero: upgradeRedHeroTemp,
-        giacTinhTuong: giacTinhSelected
+        giacTinhTuong: giacTinhSelected,
+        fetter: fetterFormat,
     }
-    resp.send(heroTemp);
+    resp.send(heroTemp)
+    // resp.send(heroTemp);
     // console.log(`https://tamquoc1st.info/talent/${id}.html `);
     // request(`https://tamquoc1st.info/talent/${id}.html`, function (err, res, body) {
     //     var $ = cheerio.load(body);
